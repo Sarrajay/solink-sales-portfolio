@@ -1,6 +1,6 @@
 # 📁 Solink Sales Portfolio
 
-Hi, I’m Sarra Jayasinghe — a Sales Ops–savvy Account Executive with a track record in B2B SaaS, CPG, and regulated industries. This repo highlights strategic examples from my work in business development and sales enablement.
+Hi, I’m Sarra Jayasinghe.I'm a Sales Ops–savvy Account Executive with a track record in B2B SaaS, CPG, and regulated industries. This repo highlights strategic examples from my work in business development and sales enablement.
 
 ## Included
 
